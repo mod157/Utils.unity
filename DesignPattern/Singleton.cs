@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Robotry.Utils
+namespace Nammu.Utils
 {
     public class Singleton<T> : MonoBehaviour where T : MonoBehaviour
     {
